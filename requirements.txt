@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+flask
+gunicorn
+pyrogram
+tgcrypto
+python-telegram-bot
+aiohttp
+psycopg2-binary
